@@ -1,0 +1,3 @@
+cd C:\Users\Gonzalo\OneDrive - Universidad de Concepción\Universidad\Estructura de Datos\Proyecto
+Predictor.exe entrada.txt salida.txt
+palabra1 1002

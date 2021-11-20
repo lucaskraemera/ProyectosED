@@ -1,0 +1,12 @@
+resultados de palabra:
+palabra
+palabracuatro
+
+resultados de abcdefgjskda:
+palabra
+palabracuatro
+
+resultados de hola:
+palabra
+palabracuatro
+
